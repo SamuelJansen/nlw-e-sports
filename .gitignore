@@ -1,3 +1,8 @@
+# mine
+package-lock.*
+*/build
+*/node_modules
+
 # Logs
 logs
 *.log
