@@ -3,7 +3,6 @@ package-lock.*
 */build
 */node_modules
 nlw-event.txt
-*.png
 
 # Logs
 logs
